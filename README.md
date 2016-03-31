@@ -3,7 +3,9 @@ Repository with my first steps in R
 
 ## Initial learning session for git
 
-![alt text][git-commands]
+git add
+git commit
+git push
+git pull
 
-[git-commands]: https://github.com/gzukrigl/learning-R/imgs/git-commands.png "GitCommands"
-![alt text](https://github.com/gzukrigl/learning-R/imgs/git-commands.png "GitCommands")
+
